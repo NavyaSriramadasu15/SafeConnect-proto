@@ -1,0 +1,20 @@
+SAFECONNECT — HACKATHON PROTOTYPE
+
+Problem:
+Home activity can be difficult to keep track of, especially for families, elderly people, and people living alone.
+
+Solution:
+SafeConnect presents home events, delivery expectations, and trusted contacts in one accessible dashboard.
+
+Prototype technologies:
+HTML5, CSS3, Vanilla JavaScript.
+
+Demo-ready interactions:
+- Add simulated doorbell, motion, delivery, and system events.
+- Search/filter the activity history.
+- Add sample delivery entries and trusted contacts.
+- Toggle larger text, high contrast, and reduced motion.
+- Responsive layout for desktop and mobile.
+
+Honest scope:
+This build uses simulated data. It is not connected to a Ring account, does not send messages, and is not an emergency-response system. Real device integration would require authorized API access and a secure backend.
